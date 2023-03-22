@@ -10,9 +10,14 @@
 <a href="Sakthivel_Madhu_Resume (3).pdf" download >Download CV</a>
 <img width="30%" align="right" src="IMG_7887.jpg" alt=""> <br>
 
+<h3> Social Links </h3>
+<p>GitHub : <a class="okok" href="https://github.com/SakthivelMadhu">SakthivelMadhu</a></p>
+<p>Linkedin : <a class="okok" href="https://www.linkedin.com/in/sakthivel-madhu-864647238/">SakthivelM</a></p>
+<p>Replit : <a class="okok" href="https://replit.com/@sakthivelMadhu">Sakthivel97</a></p>
+<p>LeetCode : <a class="okok" href="https://leetcode.com/sakthi130597/">sakthi130597</a></p>
+<p>Portfolio : <a class="okok" href="https://sakthivelmadhu.github.io/">sakthi130597</a></p>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SakthivelMadhu&show_icons=true&theme=radica" />
-
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthivelMadhu&langs_count=8" />
