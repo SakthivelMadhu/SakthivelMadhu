@@ -20,25 +20,26 @@
 
 <h3 text-color="red" padding-top="30px"> My Latest Projects :  </h3> <br>
 <p>Famous Footwear Clone : </p>
-<img src="portifolio4.png" alt="">  
 <a padding-right="20px" href="https://github.com/Deepak-25yadav/wicked-edge-6587">Github</a>
 <a href="https://magnificent-bonbon-8ffb8d.netlify.app/">Live</a>
+<img src="portifolio1.png" alt="">
    
 <p>Naukri Clone :  </p>
-<img src="portifolio4.png" alt="">  
 <a href="https://github.com/SakthivelMadhu/-lazy-base-8555">Github</a>
 <a href="https://cerulean-tarsier-3cdce4.netlify.app/">Live</a>
+<img src="portifolio2.png" alt="">
 
 <p>Over Stock Clone :   </p>
-<img src="portifolio3.png" alt="">  
 <a href="https://github.com/SakthivelMadhu/next-vest-6513">Github</a>
 <a href="https://roaring-licorice-c0552e.netlify.app/">Live</a>
+<img src="portifolio3.png" alt=""> 
     
 <p>Restaurant Management System :  </p>
-<img src="portifolio4.png" alt="">   
 <a href="https://github.com/SakthivelMadhu/Restaurant_management_system">Github</a>
 <a href="#">Live</a>
-    
+<img src="portifolio4.png" alt=""> 
+
+
 <h3 text-color="red" padding-top="30px"> GitHub's Stats :  </h3> <br>
 <img align="left" width="100%"  height="360px" src="https://github-readme-stats.vercel.app/api?username=SakthivelMadhu&show_icons=true&theme=radica" /> <br>
 
