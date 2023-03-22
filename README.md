@@ -16,7 +16,7 @@
 <p>Linkedin : <a  href="https://www.linkedin.com/in/sakthivel-madhu-864647238/">SakthivelM</a></p>
 <p>Replit : <a href="https://replit.com/@sakthivelMadhu">Sakthivel97</a></p>
 <p>LeetCode : <a  href="https://leetcode.com/sakthi130597/">sakthi130597</a></p>
-<p>Portfolio : <a " href="https://sakthivelmadhu.github.io/">https://sakthivelmadhu.github.io/</a></p>
+<p>Portfolio : <a " href="https://sakthivelmadhu.github.io/">SakthivelMadhu.github.io</a></p>
 
 <h3 text-color="red" padding-top="30px"> My Latest Projects :  </h3> <br>
 <p>Famous Footwear Clone :
