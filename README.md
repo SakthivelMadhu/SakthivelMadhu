@@ -36,7 +36,7 @@
     
 <p>Restaurant Management System : 
 <a href="https://github.com/SakthivelMadhu/Restaurant_management_system">Github</a>
-<a href="#">Deploy</a>    </p>
+
 
 
 
