@@ -10,6 +10,23 @@
 <a href="Sakthivel_Madhu_Resume (3).pdf" download >Download CV</a>
 <img width="30%" align="right" src="IMG_7887.jpg" alt=""> <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3> Social Links </h3>
 <p>GitHub : <a class="okok" href="https://github.com/SakthivelMadhu">SakthivelMadhu</a></p>
 <p>Linkedin : <a class="okok" href="https://www.linkedin.com/in/sakthivel-madhu-864647238/">SakthivelM</a></p>
