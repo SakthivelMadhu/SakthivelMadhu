@@ -98,7 +98,7 @@ When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants i
 <br>
 
 ## GitHub's Stats : 
-<img align="left" width="100%"  height="360px" src="https://github-readme-stats.vercel.app/api?username=SakthivelMadhu&show_icons=true&theme=radica" /> <br>
+<img align="left" width="100%"  height="300px" src="https://github-readme-stats.vercel.app/api?username=SakthivelMadhu&show_icons=true&theme=radica" /> <br>
 
 ## Most Used Languages : 
 <img align="left" width="100%" height="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthivelMadhu&layout=compact" /><br>
