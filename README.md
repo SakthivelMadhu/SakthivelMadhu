@@ -16,7 +16,7 @@
                 <a href="Sakthivel_Madhu_Resume.pdf" download class="btn" class="nav-line resume">Download CV</a>
             </div> 
             <div class="home-img padd-15">
-                <img src="images/SakthivelMadhu.jpg" alt="">
+                <img src="images/IMG_7887.jpg" alt="">
             </div>
         </div>
     </div>
