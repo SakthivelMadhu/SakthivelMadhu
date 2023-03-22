@@ -8,7 +8,7 @@
     progressive organization with opportunities
     to work onsignificant projects.</p>
 <a href="Sakthivel_Madhu_Resume (3).pdf" download >Download CV</a>
-<img width="30%" align="right" src="IMG_7887.jpg" alt=""> <br>
+<img width="30%" height="300px" align="right" src="IMG_7887.jpg" alt=""> <br>
 
 
 <h3 text-color="red" > Social Links : </h3>
@@ -21,23 +21,23 @@
 <h3 text-color="red" padding-top="30px"> My Latest Projects :  </h3> <br>
 <p>Famous Footwear Clone :
 <a padding-right="20px" href="https://github.com/Deepak-25yadav/wicked-edge-6587">Github</a>
-<a href="https://magnificent-bonbon-8ffb8d.netlify.app/">Live</a>   </p>
-<img src="portifolio1.png" alt="">
+<a href="https://magnificent-bonbon-8ffb8d.netlify.app/">Deploy</a>   </p>
+<img width="48%" align="left" src="portifolio1.png" alt="">
    
 <p>Naukri Clone :  
 <a href="https://github.com/SakthivelMadhu/-lazy-base-8555">Github</a>
-<a href="https://cerulean-tarsier-3cdce4.netlify.app/">Live</a>   </p>
-<img src="portifolio2.png" alt="">
+<a href="https://cerulean-tarsier-3cdce4.netlify.app/">Deploy</a>   </p>
+<img width="48%" align="left" src="portifolio2.png" alt="">
 
 <p>Over Stock Clone :   
 <a href="https://github.com/SakthivelMadhu/next-vest-6513">Github</a>
-<a href="https://roaring-licorice-c0552e.netlify.app/">Live</a>   </p>
-<img src="portifolio3.png" alt=""> 
+<a href="https://roaring-licorice-c0552e.netlify.app/">Deploy</a>   </p>
+<img width="48%" align="left" src="portifolio3.png" alt=""> 
     
 <p>Restaurant Management System : 
 <a href="https://github.com/SakthivelMadhu/Restaurant_management_system">Github</a>
-<a href="#">Live</a>    </p>
-<img src="portifolio4.png" alt=""> 
+<a href="#">Deploy</a>    </p>
+<img width="48%" align="left" src="portifolio4.png" alt=""> 
 
 
 <h3 text-color="red" padding-top="30px"> GitHub's Stats :  </h3> <br>
