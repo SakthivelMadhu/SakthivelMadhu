@@ -6,7 +6,6 @@ I'm Sakthivel Madhu, a Backend Developer based in Bengaluru.
 Talented backend developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web applications across multiple APIs, third-party integrations and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.
 
 <br>
-<br>
 
 ## Projects :
 
@@ -35,12 +34,12 @@ My personal portfolio website built with HTML/CSS and JavaScript. Includes my re
 
 GitHub Repository : [SakthivelMadhu.github.io](https://sakthivelmadhu.github.io/)
 
-
+<br>
 ## About Me :
 
 When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants in the city.
 
-
+<br>
 
 ## Contact Me :
 
@@ -51,7 +50,7 @@ When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants i
 - LeetCode: [sakthi130597](https://leetcode.com/sakthi130597/)
 
 <br>
-<br>
+
 
 ## Languages and Tools :
 
