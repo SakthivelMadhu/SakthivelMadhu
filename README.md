@@ -13,27 +13,25 @@ Talented backend developer adept at contributing to a highly collaborative work 
 A responsive e-commerce website built with React and Node.js. Features include user authentication, shopping cart, and Able to add product process.
 
 GitHub Repository : [GitHub](https://github.com/Deepak-25yadav/wicked-edge-6587) : [Live-Demo](https://magnificent-bonbon-8ffb8d.netlify.app/)
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepak-25yadav&repo=wicked-edge-6587" /><br>
 
 ### Project 2: Naukri Clone
 A responsive Indian employment website website built with Node.js. Features include user authentication, list of jobs, and Block/UnBlock Users.
 
 GitHub Repository: [GitHub](https://github.com/SakthivelMadhu/-lazy-base-8555) :  [Live-Demo](https://cerulean-tarsier-3cdce4.netlify.app/)
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=-lazy-base-8555" /><br>
 
-### Project 3: Over Stock Clone
-A responsive e-commerce website built with Node.js. Features include user authentication, shopping cart, and checkout process.
-
-GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/next-vest-6513) :  [Live-Demo](https://roaring-licorice-c0552e.netlify.app/)
-
-### Project 4: Restaurant Management System 
+### Project 3: Restaurant Management System 
 A restaurant management system is something that helps restaurants manage their work more efficiently with the help of some online tools and software.
 
 GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/Restaurant_management_system) 
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=Restaurant_management_system" /><br>
 
-### Project 5: Portfolio Website
+### Project 4: Portfolio Website
 My personal portfolio website built with HTML/CSS and JavaScript. Includes my resume, projects, and contact information.
 
 GitHub Repository : [SakthivelMadhu.github.io](https://sakthivelmadhu.github.io/)
-
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=SakthivelMadhu.github.io" /><br>
 <br>
 ## About Me :
 
@@ -111,4 +109,19 @@ When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants i
 
 ## Most Used Languages : 
 <img align="left" width="100%" height="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthivelMadhu&layout=compact" /><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
