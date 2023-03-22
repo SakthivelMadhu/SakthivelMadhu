@@ -19,24 +19,24 @@
 <p>Portfolio : <a " href="https://sakthivelmadhu.github.io/">SakthivelMadhu.github.io</a></p>
 
 <h3 text-color="red" padding-top="30px"> My Latest Projects :  </h3> <br>
-<p>Famous Footwear Clone : </p>
+<p>Famous Footwear Clone :
 <a padding-right="20px" href="https://github.com/Deepak-25yadav/wicked-edge-6587">Github</a>
-<a href="https://magnificent-bonbon-8ffb8d.netlify.app/">Live</a>
+<a href="https://magnificent-bonbon-8ffb8d.netlify.app/">Live</a>   </p>
 <img src="portifolio1.png" alt="">
    
-<p>Naukri Clone :  </p>
+<p>Naukri Clone :  
 <a href="https://github.com/SakthivelMadhu/-lazy-base-8555">Github</a>
-<a href="https://cerulean-tarsier-3cdce4.netlify.app/">Live</a>
+<a href="https://cerulean-tarsier-3cdce4.netlify.app/">Live</a>   </p>
 <img src="portifolio2.png" alt="">
 
-<p>Over Stock Clone :   </p>
+<p>Over Stock Clone :   
 <a href="https://github.com/SakthivelMadhu/next-vest-6513">Github</a>
-<a href="https://roaring-licorice-c0552e.netlify.app/">Live</a>
+<a href="https://roaring-licorice-c0552e.netlify.app/">Live</a>   </p>
 <img src="portifolio3.png" alt=""> 
     
-<p>Restaurant Management System :  </p>
+<p>Restaurant Management System : 
 <a href="https://github.com/SakthivelMadhu/Restaurant_management_system">Github</a>
-<a href="#">Live</a>
+<a href="#">Live</a>    </p>
 <img src="portifolio4.png" alt=""> 
 
 
