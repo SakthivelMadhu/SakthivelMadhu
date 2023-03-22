@@ -16,7 +16,7 @@
 <p>Linkedin : <a class="okok" href="https://www.linkedin.com/in/sakthivel-madhu-864647238/">SakthivelM</a></p>
 <p>Replit : <a class="okok" href="https://replit.com/@sakthivelMadhu">Sakthivel97</a></p>
 <p>LeetCode : <a class="okok" href="https://leetcode.com/sakthi130597/">sakthi130597</a></p>
-<p>Portfolio : <a class="okok" href="https://sakthivelmadhu.github.io/">sakthi130597</a></p>
+<p>Portfolio : <a class="okok" href="https://github.com/SakthivelMadhu/SakthivelMadhu.github.io">sakthi130597</a></p>
 
 <h3 text-color="red" padding-top="30px"> GitHub's Stats :  </h3> <br>
 <img align="left" width="100%"  height="360px" src="https://github-readme-stats.vercel.app/api?username=SakthivelMadhu&show_icons=true&theme=radica" /> <br>
