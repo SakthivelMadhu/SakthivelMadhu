@@ -30,7 +30,7 @@ GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/Restaurant_manage
 ### Project 4: Portfolio Website
 My personal portfolio website built with HTML/CSS and JavaScript. Includes my resume, projects, and contact information.
 
-GitHub Repository : [SakthivelMadhu.github.io](https://sakthivelmadhu.github.io/)
+GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/SakthivelMadhu.github.io) : [Live-Demo](https://sakthivelmadhu.github.io/)
 <img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=SakthivelMadhu.github.io" /><br>
 <br>
 ## About Me :
