@@ -7,7 +7,7 @@
     supervision. Looking forward to join a
     progressive organization with opportunities
     to work onsignificant projects.</p>
-<a href="Sakthivel_Madhu_Resume(3).pdf" download >Download CV</a>
+<a href="Sakthivel_Madhu_Resume (3).pdf" download >Download CV</a>
 <img width="30%" align="right" src="IMG_7887.jpg" alt=""> <br>
 
 
