@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Sakthivel Madhu, a Backend Developer based in Bengaluru.
+I'm Sakthivel Madhu, a Backend Developer in Bengaluru.
 
 Talented backend developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web applications across multiple APIs, third-party integrations and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.
 
