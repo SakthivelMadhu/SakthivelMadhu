@@ -16,7 +16,7 @@
 <p>Linkedin : <a  href="https://www.linkedin.com/in/sakthivel-madhu-864647238/">SakthivelM</a></p>
 <p>Replit : <a href="https://replit.com/@sakthivelMadhu">Sakthivel97</a></p>
 <p>LeetCode : <a  href="https://leetcode.com/sakthi130597/">sakthi130597</a></p>
-<p>Portfolio : <a " href="https://sakthivelmadhu.github.io/">SakthivelMadhu.github.io</a></p>
+<p>Portfolio : <a " href="https://sakthivelmadhu.github.io/">https://sakthivelmadhu.github.io/</a></p>
 
 <h3 text-color="red" padding-top="30px"> My Latest Projects :  </h3> <br>
 <p>Famous Footwear Clone :
@@ -29,9 +29,7 @@
 <a href="https://cerulean-tarsier-3cdce4.netlify.app/">Deploy</a>   </p>
 
 
-<p>Over Stock Clone :   
-<a href="https://github.com/SakthivelMadhu/next-vest-6513">Github</a>
-<a href="https://roaring-licorice-c0552e.netlify.app/">Deploy</a>   </p>
+
 
     
 <p>Restaurant Management System : 
