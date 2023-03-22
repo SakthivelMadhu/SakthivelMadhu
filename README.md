@@ -84,13 +84,18 @@ When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants i
 <img align="left" height="30px"  src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /> 
 <img align="left" height="30px"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> 
 <img align="left" height="30px"  src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" /> <br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## GitHub's Stats : 
 <img align="left" width="100%"  height="360px" src="https://github-readme-stats.vercel.app/api?username=SakthivelMadhu&show_icons=true&theme=radica" /> <br>
