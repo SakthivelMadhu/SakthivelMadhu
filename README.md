@@ -1,26 +1,15 @@
 
 # Hi there 👋, I'm Sakthivel Madhu
+<h3 align="left" width="50%" >I'm a <span class="typing">Backend Developer</span></h3>
+<p align="left" width="50%" >Backend developer with considerable
+    technical skills who possess self-discipline
+    and the ability to work with minimum
+    supervision. Looking forward to join a
+    progressive organization with opportunities
+    to work onsignificant projects.</p>
+<a href="Sakthivel_Madhu_Resume.pdf" download >Download CV</a>
+<img width="30%" align="right" src="IMG_7887.jpg" alt=""> <br>
 
-<section class="home active section" id="home" id="nav-menu">
-    <div class="container">
-        <div class="row">
-            <div class="home-info padd-15">
-                <h3 class="hello" id="user-detail-name">Hello, My name is <span class="name">Sakthivel Madhu</span></h3>
-                <h3 class="my-profession">I'm a <span class="typing">Backend Developer</span></h3>
-                <p id="user-detail-intro">Backend developer with considerable
-                    technical skills who possess self-discipline
-                    and the ability to work with minimum
-                    supervision. Looking forward to join a
-                    progressive organization with opportunities
-                    to work onsignificant projects.</p>
-                <a href="Sakthivel_Madhu_Resume.pdf" download class="btn" class="nav-line resume">Download CV</a>
-            </div> 
-            <div class="home-img padd-15">
-                <img src="images/IMG_7887.jpg" alt="">
-            </div>
-        </div>
-    </div>
-</section>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SakthivelMadhu&show_icons=true&theme=radica" />
 
