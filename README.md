@@ -15,7 +15,7 @@ You then assign the form to one or more team members, using the tool. The team m
 The team member opens the form and fills in the required information. They can save their progress and return to the form later if they need to.
 Once the team member has completed the form, they submit it using the tool. <br>
 GitHub Repository : [GitHub](https://github.com/masai-builds/TeamiplyBackend) : [Live-Demo](https://teamimply.vercel.app/) <br>
-<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=masai-builds&repo=TeamiplyBackend" /><br>
+<!-- <img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=masai-builds&repo=TeamiplyBackend" /><br> -->
 
 
 ### Project 2: Automated_Auction_System
