@@ -9,30 +9,37 @@ Talented backend developer adept at contributing to a highly collaborative work 
 
 ## Projects :
 
-### Project 1: Famous Footwear Clone
-A responsive e-commerce website built with React and Node.js. Features include user authentication, shopping cart, and Able to add product process.
+### Project 1: MasaiBuilds - Teamiply
+As a team manager, you create a form using your tool. This form includes fields for the information you need from your team members.
+You then assign the form to one or more team members, using the tool. The team members receive a notification that they have been assigned a form to complete.
+The team member opens the form and fills in the required information. They can save their progress and return to the form later if they need to.
+Once the team member has completed the form, they submit it using the tool. <br>
+GitHub Repository : [GitHub](https://github.com/masai-builds/TeamiplyBackend) : [Live-Demo](https://teamimply.vercel.app/) <br>
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=masai-builds&repo=TeamiplyBackend" /><br>
 
-GitHub Repository : [GitHub](https://github.com/Deepak-25yadav/wicked-edge-6587) : [Live-Demo](https://magnificent-bonbon-8ffb8d.netlify.app/)
-<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepak-25yadav&repo=wicked-edge-6587" /><br>
 
-### Project 2: Naukri Clone
+### Project 2: Automated_Auction_System
+Automation auction system is an online auction system, where buyer can buy the product , seller can sell the product and administrator related data and its items. This system store the all data in this system. It is backend server which built with the help of the java, sql, jdbc and dao technologies.
+
+GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/Automated_Auction_System) : [Live-Demo](https://drive.google.com/drive/folders/18TTyx6UGZe3w0iRqTwcyqt-htw_FO9Z_?usp=sharing)
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=Automated_Auction_System" /><br>
+
+
+### Project 3: Naukri Clone
 A responsive Indian employment website website built with Node.js. Features include user authentication, list of jobs, and Block/UnBlock Users.
+Clone of Naukri.com website where user is able to see different job openings and can apply to various companies.
 
 GitHub Repository: [GitHub](https://github.com/SakthivelMadhu/-lazy-base-8555) :  [Live-Demo](https://cerulean-tarsier-3cdce4.netlify.app/)
 <img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=-lazy-base-8555" /><br>
 
-### Project 3: Restaurant Management System 
-A restaurant management system is something that helps restaurants manage their work more efficiently with the help of some online tools and software.
+### Project 4: Restaurant Management System 
+In the Restaurant management system project in Python, we will be having a GUI using which we will be able to do complete billing for any customer. Like we will be able to add items and their price to the bill and also calculate their total price using the total button. Also, the data can be stored in our inbuilt SQLite database.
+We will be having many buttons like the Exit button to exit the GUI, the Add button to store the data in the database, the Delete record button to delete the selected data from the SQLite database, and the Feedback button to take the feedback from the customer, the Menu button to show all the items available in the restaurant, the Reset button to reset the data, etc
 
 GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/Restaurant_management_system) 
 <img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=Restaurant_management_system" /><br>
 
-### Project 4: Portfolio Website
-My personal portfolio website built with HTML/CSS and JavaScript. Includes my resume, projects, and contact information.
 
-GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/SakthivelMadhu.github.io) : [Live-Demo](https://sakthivelmadhu.github.io/)
-<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=SakthivelMadhu.github.io" /><br>
-<br>
 ## About Me :
 
 When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants in the city.
