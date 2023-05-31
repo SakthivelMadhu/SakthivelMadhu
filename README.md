@@ -33,7 +33,7 @@ GitHub Repository: [GitHub](https://github.com/SakthivelMadhu/Clone-Naukri) :  [
 <img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=Clone-Naukri" /><br>
 
 ### Project 4:  Clone - Famous Footwear
-Famous Footwear is a retail store that specializes in footwear for men, women, and children.
+Famous Footwear is a retail store that specializes that specializes in footwear for men, women and children. This is an online footwear shop. You get to order the pair of shoes that you love and sign up with us for constant updates on new stock.
 
 GitHub Repository: [GitHub](https://github.com/Deepak-25yadav/wicked-edge-6587) :  [Live-Demo](https://magnificent-bonbon-8ffb8d.netlify.app/)
 <img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepak-25yadav&repo=wicked-edge-6587" /><br>
