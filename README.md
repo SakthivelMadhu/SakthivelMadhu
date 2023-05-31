@@ -25,14 +25,20 @@ GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/Automated_Auction
 <img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=Automated_Auction_System" /><br>
 
 
-### Project 3: Naukri Clone
+### Project 3: Clone - Naukri 
 A responsive Indian employment website website built with Node.js. Features include user authentication, list of jobs, and Block/UnBlock Users.
 Clone of Naukri.com website where user is able to see different job openings and can apply to various companies.
 
-GitHub Repository: [GitHub](https://github.com/SakthivelMadhu/Naukri_Clone) :  [Live-Demo](https://cerulean-tarsier-3cdce4.netlify.app/)
-<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=Naukri_Clone" /><br>
+GitHub Repository: [GitHub](https://github.com/SakthivelMadhu/Clone-Naukri) :  [Live-Demo](https://cerulean-tarsier-3cdce4.netlify.app/)
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=Clone-Naukri" /><br>
 
-### Project 4: Restaurant Management System 
+### Project 4:  Clone - Famous Footwear
+Famous Footwear is a retail store that specializes in footwear for men, women, and children.
+
+GitHub Repository: [GitHub](https://github.com/Deepak-25yadav/wicked-edge-6587) :  [Live-Demo](https://magnificent-bonbon-8ffb8d.netlify.app/)
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepak-25yadav&repo=wicked-edge-6587" /><br>
+
+### Project 5: Restaurant Management System 
 In the Restaurant management system project in Python, we will be having a GUI using which we will be able to do complete billing for any customer. Like we will be able to add items and their price to the bill and also calculate their total price using the total button. Also, the data can be stored in our inbuilt SQLite database.
 We will be having many buttons like the Exit button to exit the GUI, the Add button to store the data in the database, the Delete record button to delete the selected data from the SQLite database, and the Feedback button to take the feedback from the customer, the Menu button to show all the items available in the restaurant, the Reset button to reset the data, etc
 
