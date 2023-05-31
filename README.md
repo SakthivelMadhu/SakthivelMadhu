@@ -8,14 +8,14 @@ Talented backend developer adept at contributing to a highly collaborative work 
 <br>
 
 ## Contact Me :
+📫 How to reach me: [Mail Me](sakthi130597@gmail.com) <br>
+🤔 I’m on LinkedIn https://www.linkedin.com/in/sakthivel-madhu-864647238/ <br>
+🤔 I’m on GitHub https://github.com/SakthivelMadhu <br>
 
-- Email: sakthi130597@gmail.com
-- LinkedIn : [Sakthivel Madhu](https://www.linkedin.com/in/sakthivel-madhu-864647238/)
-- GitHub: [SakthivelMadhu](https://github.com/SakthivelMadhu)
-- Replit: [Sakthivel97](https://replit.com/@sakthivelMadhu)
-- LeetCode: [sakthi130597](https://leetcode.com/sakthi130597/)
+## About Me :
+⚡ When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants in the city. <br>
 
-<!-- - LinkedIn: [SakthivelM](https://www.linkedin.com/in/sakthivel-madhu-864647238/) -->
+
 <br>
 
 
@@ -58,11 +58,11 @@ GitHub Repository : [GitHub](https://github.com/SakthivelMadhu/Restaurant_manage
 <img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=SakthivelMadhu&repo=Restaurant_management_system" /><br>
 
 
-## About Me :
 
-When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants in the city.
 
-<br>
+
+
+
 
 
 
