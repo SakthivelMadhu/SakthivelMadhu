@@ -7,6 +7,18 @@ Talented backend developer adept at contributing to a highly collaborative work 
 
 <br>
 
+## Contact Me :
+
+- Email: sakthi130597@gmail.com
+- LinkedIn : [Sakthivel Madhu](https://www.linkedin.com/in/sakthivel-madhu-864647238/)
+- GitHub: [SakthivelMadhu](https://github.com/SakthivelMadhu)
+- Replit: [Sakthivel97](https://replit.com/@sakthivelMadhu)
+- LeetCode: [sakthi130597](https://leetcode.com/sakthi130597/)
+
+<!-- - LinkedIn: [SakthivelM](https://www.linkedin.com/in/sakthivel-madhu-864647238/) -->
+<br>
+
+
 ## Projects :
 
 ### Project 1: MasaiBuilds - Teamiply
@@ -52,16 +64,7 @@ When I'm not coding, I enjoy Swimming, Cooking, and trying out new restaurants i
 
 <br>
 
-## Contact Me :
 
-- Email: sakthi130597@gmail.com
-- LinkedIn : [Sakthivel Madhu](https://www.linkedin.com/in/sakthivel-madhu-864647238/)
-- GitHub: [SakthivelMadhu](https://github.com/SakthivelMadhu)
-- Replit: [Sakthivel97](https://replit.com/@sakthivelMadhu)
-- LeetCode: [sakthi130597](https://leetcode.com/sakthi130597/)
-
-<!-- - LinkedIn: [SakthivelM](https://www.linkedin.com/in/sakthivel-madhu-864647238/) -->
-<br>
 
 
 ## Languages and Tools :
