@@ -32,6 +32,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=16&duration=4000&pause=2500&color=C084FC&center=false&vCenter=true&width=580&height=36&lines=⚡+AI-AUGMENTED+BACKEND+ARCHITECT+%7C+2026&repeat=false" alt="Title"/>
 
+
 <br/>
 
 <img src="https://img.shields.io/badge/🤖_2026_AI--ERA_ENGINEER-7c3aed?style=for-the-badge&labelColor=0d1117"/>
