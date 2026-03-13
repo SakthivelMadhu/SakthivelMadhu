@@ -16,7 +16,7 @@
 <tr>
 <td align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/SakthivelMadhu/SakthivelMadhu/main/IMG_7887.jpg" width="290" alt="Sakthivel Madhu — Backend Architect"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="AI Engineer Animation"/>
 
 <br/><br/>
 
@@ -936,11 +936,11 @@ A centralized **vendor onboarding & compliance automation** platform with real-t
 <tr>
 <td align="center" valign="middle" width="340">
 
-<img src="https://raw.githubusercontent.com/SakthivelMadhu/SakthivelMadhu/main/IMG_7887.jpg" width="320" alt="Sakthivel Madhu on Royal Enfield"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="Coding Animation"/>
 
 <br/>
 
-<sub><b>🏍️ Royal Enfield · Gorilla 650 · Bangalore Roads</b></sub>
+<sub><b>🏍️ Royal Enfield Rider · 🏊 Swimmer · 🧠 LeetCoder · 🍜 BLR Foodie</b></sub>
 
 </td>
 <td align="left" valign="middle" width="380">
