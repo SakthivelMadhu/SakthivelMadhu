@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:sakthivelmadhu.github.io)",
+      "WebSearch",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
