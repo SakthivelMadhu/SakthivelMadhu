@@ -4,13 +4,21 @@
 
 <!-- ═══════════════════ VENOM ANIMATED HEADER ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:050510,42:0a0a2a,62:2d1065,82:5b21b6,100:c084fc&height=400&section=header&text=SAKTHIVEL%20MADHU&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🧠%20AI-Augmented%20Backend%20Architect%20·%20Agentic%20Systems%20Builder%20·%20Distributed%20Platform%20Engineer&descAlignY=56&descSize=17&descColor=e0d4ff&stroke=a78bfa&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:050510,42:0a0a2a,62:2d1065,82:5b21b6,100:c084fc&height=420&section=header&text=SAKTHIVEL%20MADHU&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🧠%20AI-Augmented%20Backend%20Architect%20·%20Agentic%20Systems%20Builder%20·%20Distributed%20Platform%20Engineer&descAlignY=56&descSize=17&descColor=e0d4ff&stroke=a78bfa&strokeWidth=3" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-<!-- ═══════════════════ IDENTITY CARD — DESIGNED ═══════════════════ -->
+<!-- ═══════════════════ ANIMATED PORTFOLIO BANNER ═══════════════════ -->
+
+<a href="https://sakthivelmadhu.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=19&duration=3500&pause=2000&color=00D4FF&center=true&vCenter=true&width=750&height=38&lines=🌐+LIVE+PORTFOLIO+→+sakthivelmadhu.github.io;⚡+AI-First+Systems+·+Real+Impact+·+Production+Scale" alt="Portfolio Banner"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════ IDENTITY CARD ═══════════════════ -->
 
 <table border="0" cellpadding="18" cellspacing="0">
 <tr>
@@ -71,7 +79,7 @@
 
 <br/>
 
-<!-- ═══════════════════ ANIMATED ROLES — 2026 AI LANGUAGE ═══════════════════ -->
+<!-- ═══════════════════ ANIMATED ROLES ═══════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=750&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=🏗️+Architecting+AI-first+enterprise+platforms+%40+scale;🤖+LLM+Pipelines+%2B+Agentic+Systems+%7C+92%25+manual+effort+gone;⚡+Event-Driven+%7C+Microservices+%7C+GCP+%7C+Real+money%2C+real+impact;🧠+RAG+·+Multi-Agent+Orchestration+·+Doc-AI+·+Semantic+Search;🏆+Employee+of+the+Quarter+—+Twinleaves+Retail+Ecommerce)](https://git.io/typing-svg)
 
@@ -95,6 +103,7 @@ const sakthivel_2026 = {
   designation:  "AI-Augmented Backend Architect",
   location:     "Bangalore, India 🇮🇳",
   experience:   "3+ years | enterprise production systems",
+  portfolio:    "https://sakthivelmadhu.github.io",
 
   currentMission: {
     company:    "Twinleaves Retail Ecommerce",
@@ -126,7 +135,7 @@ const sakthivel_2026 = {
     year:    "2014 – 2018"
   },
 
-  hobbies: ["🏊 Swimming", "🍳 Cooking", "🧠 LeetCode", "🍜 BLR Food"],
+  hobbies: ["🏊 Swimming", "🍳 Cooking", "🧠 LeetCode", "🍜 BLR Food", "🏍️ RE Gorilla 650"],
 
   philosophy: `"I don't just write code.
     I architect AI-augmented systems that solve
@@ -820,16 +829,31 @@ A centralized **vendor onboarding & compliance automation** platform with real-t
 
 <div align="center">
 
+<!-- Stats + Streak side by side -->
 <img height="185" src="https://github-readme-stats.vercel.app/api?username=SakthivelMadhu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=8b9caf&ring_color=7c3aed" />&nbsp;&nbsp;
 <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=SakthivelMadhu&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280&stroke=1e1b4b&currStreakNum=c084fc&sideNums=a78bfa" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthivelMadhu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=8b9caf&langs_count=10" />&nbsp;&nbsp;
-<img height="170" src="https://leetcode-stats-card.vercel.app/card/?username=sakthi130597&theme=dark&border=7c3aed&bg=0d1117&text=c084fc&circle=7c3aed"/>
+<!-- Languages (donut layout looks more 3D) + LeetCode -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthivelMadhu&layout=donut&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=8b9caf&langs_count=8" />&nbsp;&nbsp;
+<img height="180" src="https://leetcode-stats-card.vercel.app/card/?username=sakthi130597&theme=dark&border=7c3aed&bg=0d1117&text=c084fc&circle=7c3aed"/>
 
 <br/><br/>
 
+<!-- Profile Summary Cards row — more 3D looking cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakthivelMadhu&theme=2077" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthivelMadhu&theme=2077" width="24%"/>&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthivelMadhu&theme=2077" width="24%"/>&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SakthivelMadhu&theme=2077" width="24%"/>&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SakthivelMadhu&theme=2077&utcOffset=5.5" width="24%"/>
+
+<br/><br/>
+
+<!-- Trophies -->
 [![Trophy](https://github-profile-trophy.vercel.app/?username=SakthivelMadhu&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -843,6 +867,24 @@ A centralized **vendor onboarding & compliance automation** platform with real-t
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakthivelMadhu&theme=react-dark&hide_border=true&bg_color=0d1117&color=c084fc&line=7c3aed&point=a78bfa&area=true&area_color=5b21b6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- ═══════════════════ 3D CONTRIBUTION CALENDAR ═══════════════════ -->
+
+## 🌐 &nbsp; 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1500&color=a78bfa&center=true&vCenter=true&width=500&height=22&lines=Generated+daily+via+GitHub+Actions+🚀" alt="3D Calendar caption"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -918,10 +960,6 @@ A centralized **vendor onboarding & compliance automation** platform with real-t
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                           DAILY QUOTE                                   ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                     BEYOND THE CODE                                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
@@ -988,6 +1026,61 @@ vibe:        "Same precision on the road
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              🌐  PORTFOLIO SHOWCASE                                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="30">&nbsp; Live Portfolio
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:2d1065&height=3&section=header" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=🌐+sakthivelmadhu.github.io;✨+Full+Portfolio+·+Projects+·+Experience+·+Contact)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://sakthivelmadhu.github.io/">
+  <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-00D4FF?style=for-the-badge&labelColor=0d1117&color=7c3aed" height="60"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏗️_Enterprise_Systems-7c3aed?style=for-the-badge"/><br/>
+<sub>4 Production Platforms<br/>ERP · Finance · HRMS · Vendor</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖_AI_Integrations-5b21b6?style=for-the-badge"/><br/>
+<sub>LLM · Doc-AI · RAG<br/>Agentic Workflows</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/☁️_Cloud_Native-4285F4?style=for-the-badge"/><br/>
+<sub>GCP · Docker · K8s<br/>CI/CD Pipelines</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆_Certified-f59e0b?style=for-the-badge"/><br/>
+<sub>Employee of Quarter<br/>DeepLearning.AI</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1065,50:1a0a2e,100:0d1117&height=3&section=footer" width="100%"/>
 
 </div>
 

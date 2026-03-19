@@ -1,0 +1,47 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # every day at 18:00 UTC (11:30 PM IST)
+  workflow_dispatch:        # allow manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi-code-bot/github-profile-3d-contrib@v0.9.0
+        with:
+          username: SakthivelMadhu
+          settings_json: >
+            {
+              "max_repos": 10,
+              "colors": {
+                "background": "#0d1117",
+                "text": "#c084fc",
+                "meta_data": "#a78bfa",
+                "calendar": {
+                  "empty_color": "#1a1a2e"
+                },
+                "branches": [
+                  { "color": "#7c3aed", "color_border": "#5b21b6" },
+                  { "color": "#c084fc", "color_border": "#7c3aed" }
+                ]
+              }
+            }
+
+      - name: Commit and push 3D contribution graph
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -f profile-3d-contrib/
+          git diff --staged --quiet || git commit -m "chore: update 3D contribution calendar [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
